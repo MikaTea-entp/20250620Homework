@@ -9,8 +9,7 @@ Lyrica – 天気と気分で音楽を探すライナーノーツアプリ
 保存したノーツはローカルストレージに一覧として表示され、編集・削除も可能
 
 ## ③ アプリのデプロイURL
-（例）https://your-username.github.io/lyrica/
-※GitHub Pages等で公開時に記載してください。
+https://mikatea-entp.github.io/20250620Homework/
 
 ## ④ アプリのログイン用IDまたはPassword（ある場合）
 なし（誰でも使えます）
